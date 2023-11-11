@@ -59,12 +59,18 @@ To generate a Renoise theme using the `generate_theme.py` script, follow these s
    - For faster processing, consider resizing large images. The color analysis doesn't require high resolution.
 
 2. **Run the Script**:
-   - Open a terminal or command prompt.
-   - Navigate to the directory containing the `generate_theme.py` script.
-   - Run the script with the path to your image as an argument. For example:
-     ```bash
-     python generate_theme.py path/to/your_image.jpg
-     ```
+
+To generate a theme, run the script with the path to the image file:
+
+    ```bash
+    python generate_theme.py /path/to/image/file --saturation 1.5 --theme_style base --output custom_theme.xrns
+    ```
+## Command Line Arguments
+
+- `image_path`: The path to the image file to analyze for the theme.
+- `--saturation` (optional): A float representing the saturation enhancement factor (default is 1.0).
+- `--theme_style` (optional): Specify 'light', 'dark', or 'base' to generate different theme styles (default is 'base').
+- `--output` (optional): The output path for the generated `.xrns` file (default is 'output_theme.xrns').
 
 3. **Apply the Theme in Renoise**:
    - Once the script has finished running, it will output a `.xrnc` file in the same directory.
