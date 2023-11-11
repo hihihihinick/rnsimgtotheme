@@ -87,12 +87,7 @@ python generate_theme.py /path/to/image/file --saturation 1.5 --theme_style base
 ## Troubleshooting:
 - If the theme doesn't load correctly, ensure that the `.xrnc` file is not corrupted and that it was generated without errors.
 - If you encounter an error during the theme generation process, check that you have all the required dependencies installed in your virtual environment.
-
-For any issues or questions, please [open an issue](https://gitlab.com/rnsimgtotheme/RnsImgToTheme/-/issues) on the GitHub repository.
-
-
-
-3. The script will generate a `.xrnc` file in the same directory. You can load this file into Renoise by going to `Preferences` > `Theme` > `Load Theme`.
+- For any issues or questions, please [open an issue](https://gitlab.com/rnsimgtotheme/RnsImgToTheme/-/issues) on the GitHub repository.
 
 ## Notes
 
