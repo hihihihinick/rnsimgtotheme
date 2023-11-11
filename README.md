@@ -83,13 +83,11 @@ python generate_theme.py /path/to/image/file --saturation 1.5 --theme_style base
 ## Tips for Best Results:
 - Images with distinct and contrasting colors will produce more vibrant themes.
 - Themes generated from images with muted or similar colors may not provide enough contrast for comfortable use.
+- Large images may take longer to process. You can resize your image for quicker results without significantly affecting the theme colors generated.
 
 ## Troubleshooting:
 - If the theme doesn't load correctly, ensure that the `.xrnc` file is not corrupted and that it was generated without errors.
 - If you encounter an error during the theme generation process, check that you have all the required dependencies installed in your virtual environment.
 - For any issues or questions, please [open an issue](https://gitlab.com/rnsimgtotheme/RnsImgToTheme/-/issues) on the GitHub repository.
 
-## Notes
 
-- For best results, use images with a clear color palette.
-- Large images may take longer to process. You can resize your image for quicker results without significantly affecting the theme colors generated.
