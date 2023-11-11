@@ -62,10 +62,10 @@ To generate a Renoise theme using the `generate_theme.py` script, follow these s
 
 To generate a theme, run the script with the path to the image file:
 
-    ```bash
-    python generate_theme.py /path/to/image/file --saturation 1.5 --theme_style base --output custom_theme.xrns
-    ```
-## Command Line Arguments
+```bash
+python generate_theme.py /path/to/image/file --saturation 1.5 --theme_style base --output custom_theme.xrns
+```
+### Command Line Arguments
 
 - `image_path`: The path to the image file to analyze for the theme.
 - `--saturation` (optional): A float representing the saturation enhancement factor (default is 1.0).
@@ -80,11 +80,11 @@ To generate a theme, run the script with the path to the image file:
    - Click on `Load Theme...` and select the generated `.xrnc` file.
    - Your new theme based on your image's color palette will now be applied to Renoise.
 
-### Tips for Best Results:
+## Tips for Best Results:
 - Images with distinct and contrasting colors will produce more vibrant themes.
 - Themes generated from images with muted or similar colors may not provide enough contrast for comfortable use.
 
-### Troubleshooting:
+## Troubleshooting:
 - If the theme doesn't load correctly, ensure that the `.xrnc` file is not corrupted and that it was generated without errors.
 - If you encounter an error during the theme generation process, check that you have all the required dependencies installed in your virtual environment.
 
