@@ -1,0 +1,55 @@
+    .            .   .         .                              .                             .       
+.xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$$$$$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$$X::::::X$$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$$:::;:;;::::;$$$XXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$$:::;;;;;;;;;;::::+$$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$X::;;;;;;;;;;;;;;::::::X$$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$$;::;;;;;;;;;;;;;;;;;;;;:::.;$$$$Xxxxxxxxxxxxxxxxxxxxxxxx.
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$x::;;;;;;;;;;;;;;;;;;;;;;;;;;::::;$$$XXxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$;::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::X$$$XXxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$X::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::;X$$$Xxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx$$:::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::::+X$$Xxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$x::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;;::::+$Xxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$:::;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;Xxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$x::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::Xxxxxxxxx.
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxX$$;:;;;;;;;;;;;;;:;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;;;::;Xxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxX$+:::;;;;;;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;:;;;;;;;;;;;;;;;;::xXXxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxx$$::;;;;;;;;;;;;;;;;;;;;;;;;;;;;:;;;;;;;;;;;;;;;;;;;;;;;;;::;$$xxxxxxxxxx.
+.xxxxxxxxxxxxxxxxxxxxxxxX$x:::;;;;;+XXX$$$$XX+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::;$$Xxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxx$&&XXXX$$$$$$$X.      X$X+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::;$$Xxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxx&&&   $                  +X+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;:::X$Xxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxx$&&     &                   +X;;;;;;;;;;;;;;;;;;;;;;;;;;;;::x$Xxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxx&&.      $                 .  X;;;;;;;;;;;;;;;;;;;;;;;;;;::;$$xxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxx&&        $X$$$$$$&+           $;;;;;;:;;;;;;;;;;;;;;;;;::;$$Xxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxX$&        .X;++;;;;x$           $;;;;;;;;;;;;;;;;;;;;;;;::X$Xxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxx$$;X        ;X;;;;;;+X&           $;;;;;;;;;;;;;;;;;;;;;::+$Xxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxX$+:+X        X$$$$$$$&X            X;;;;;;;;;;;;;;;;;;;;::$$xxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxx$:::xX       .$                    $x;;;;;;;;;;;;;;;;;:::$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxX;:;;Xx        &                  X&X;;;;;;;;;;;;;;:;;::$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxX;:;;X+        $          .         $X;;;;;;;;;;;;;;::x$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+ xxxxxxxxxxXX::;X.        $;;;;;...    .   .    X;;;;;;;;;;;;::;$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxX$:;X    .    XxXXXXXXX$x           $;;;;;;;;;::::$XXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxX$+X        .X;;;;;;;;X.           $;;;;;;;;:::$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+.xxxxxxxxxxxxxX&$        xX;;;;;;;;X       .    $;;;;;;:::X$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxX&+       $+;;;;;;;;X      .     $;;;;:::+$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+.xxxxxxxxxxxxxxx$&x      $;;;;;;;;;X            $;;:::;$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxx$&x     $;;;;;;;;;$            $+::;$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxx$&$    X;;;;;;;;;X            X+;X$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxX&&XXXx;;;;;;;;;X            ;$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+.xxxxxxxxxxxxxxxxxxxx$$::;;;;;;;;;;xX$$$$$$$XX++&$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxX$::;;;;;;;;;;;:;;;;+++x&&$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxx$$::;;;;;;;;;;;;;;:::$XXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.
+ xxxxxxxxxxxxxxxxxxxxxxxXX;::;;;;;;;;;;:::X$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxXX;::;;;;;;;:::+$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxX$;:;;;;;;:::$$xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxX$::::::::$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+.xxxxxxxxxxxxxxxxxxxxxxxxxxxX$$x::;$$Xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxX$$XXxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx 
+                    .            .                            .                   .        .        
