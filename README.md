@@ -98,7 +98,3 @@ For any issues or questions, please [open an issue](link-to-your-github-repo-iss
 
 - For best results, use images with a clear color palette.
 - Large images may take longer to process. You can resize your image for quicker results without significantly affecting the theme colors generated.
-
-## License
-
-Feel free to fill in any additional details, specify the license, and provide any other necessary information.
